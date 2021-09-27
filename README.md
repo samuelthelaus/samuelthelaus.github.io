@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Samuel Thelaus
 
-You can use the [editor on GitHub](https://github.com/samuelthelaus/samuelthelaus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Student at London School of Economics studying MSc Applied Social Data Science (https://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2021/MSc-Applied-Social-Data-Science). Graduate from University of Edinburgh with an MA(Hons) in Psychology and Business. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Repositories for previous research projects are below:
 
-### Markdown
+- Platt Labs at University of Pennsylvania (https://github.com/samuelthelaus/Pupil_Analysis)
+- Project for Dr Nina Fisher and Dr Martin Pickering (https://github.com/samuelthelaus/NinaProject)
+- Collection of projects for Elise Payzan-LeNestour (https://github.com/samuelthelaus/UNSW_projects)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Repositories from courses using Python
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelthelaus/samuelthelaus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Introduction to Programming with Python (https://github.com/samuelthelaus/EDAA70)
+- Introduction to Neural Network Modeling (https://github.com/samuelthelaus/Neural-Nets-From-Scratch)
+- Data for Data Scientists (https://github.com/samuelthelaus/MY472)
