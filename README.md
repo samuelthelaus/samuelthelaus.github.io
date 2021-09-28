@@ -1,4 +1,4 @@
-## Samuel Thelaus
+# Samuel Thelaus
 
 Student at London School of Economics studying [MSc Applied Social Data Science](https://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2021/MSc-Applied-Social-Data-Science). Graduate from University of Edinburgh with an MA(Hons) in Psychology and Business. 
 
