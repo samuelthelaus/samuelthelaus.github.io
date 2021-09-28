@@ -13,3 +13,5 @@ Student at London School of Economics studying [MSc Applied Social Data Science]
 - [Introduction to Programming with Python](https://github.com/samuelthelaus/EDAA70)
 - [Introduction to Neural Network Modeling](https://github.com/samuelthelaus/Neural-Nets-From-Scratch)
 - [Data for Data Scientists](https://github.com/samuelthelaus/MY472)
+- [Research Methods and Statistics 1-3](https://github.com/samuelthelaus/RMS)
+- [Variance Analysis](https://github.com/samuelthelaus/STAG24)
