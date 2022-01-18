@@ -4,14 +4,14 @@ Student at London School of Economics studying [MSc Applied Social Data Science]
 
 ### Repositories for previous research projects are below:
 
-- [Platt Labs at University of Pennsylvania](https://github.com/samuelthelaus/Pupil_Analysis)
-- [Project for Dr Nina Fisher and Dr Martin Pickering](https://github.com/samuelthelaus/NinaProject)
-- [Collection of projects for Elise Payzan-LeNestour](https://github.com/samuelthelaus/UNSW_projects)
+- [Platt Labs at University of Pennsylvania](https://github.com/tama-biro/Pupil_Analysis)
+- [Project for Dr Nina Fisher and Dr Martin Pickering](https://github.com/tama-biro/NinaProject)
+- [Collection of projects for Elise Payzan-LeNestour](https://github.com/tama-biro/UNSW_projects)
 
 ### Repositories from university courses
 
-- [Introduction to Programming with Python](https://github.com/samuelthelaus/EDAA70)
-- [Introduction to Neural Network Modeling](https://github.com/samuelthelaus/Neural-Nets-From-Scratch)
-- [Data for Data Scientists](https://github.com/samuelthelaus/MY472)
-- [Research Methods and Statistics 1-3](https://github.com/samuelthelaus/RMS)
-- [Variance Analysis](https://github.com/samuelthelaus/STAG24)
+- [Introduction to Programming with Python](https://github.com/tama-biro/EDAA70)
+- [Introduction to Neural Network Modeling](https://github.com/tama-biro/Neural-Nets-From-Scratch)
+- [Data for Data Scientists](https://github.com/tama-biro/MY472)
+- [Research Methods and Statistics 1-3](https://github.com/tama-biro/RMS)
+- [Variance Analysis](https://github.com/tama-biro/STAG24)
