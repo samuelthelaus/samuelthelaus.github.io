@@ -1,14 +1,24 @@
 # Samuel Thelaus
 
-Student at London School of Economics studying [MSc Applied Social Data Science](https://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2021/MSc-Applied-Social-Data-Science). Graduate from University of Edinburgh with an MA(Hons) in Psychology and Business. 
+Technical Lead in deep tech with experience in Software Engineering, Data Science, and Academia.
 
-### Repositories for previous research projects are below:
+Currently working at [OctaiPipe](https://octaipipe.ai)
+
+![Profile Picture](profile_picture.jpeg)
+
+### Skills & Tools
+- Programming: Python, C#, React.js, Bash, SQL, R, GO, Kotlin
+- Cloud & DevOps: Azure, AWS, Docker, Kubernetes, Kubeflow, Istio, Grafana
+- Data Science: Pandas, Scikit-Learn, PyTorch, Tensorflow, Federated Learning
+- Other tools: Git, Jira, Confluence
+
+### Research Projects
 
 - [Platt Labs at University of Pennsylvania](https://github.com/tama-biro/Pupil_Analysis)
 - [Project for Dr Nina Fisher and Dr Martin Pickering](https://github.com/tama-biro/NinaProject)
 - [Collection of projects for Elise Payzan-LeNestour](https://github.com/tama-biro/UNSW_projects)
 
-### Repositories from university courses
+### Academic Courses
 
 - [Introduction to Programming with Python](https://github.com/tama-biro/EDAA70)
 - [Introduction to Neural Network Modeling](https://github.com/tama-biro/Neural-Nets-From-Scratch)
